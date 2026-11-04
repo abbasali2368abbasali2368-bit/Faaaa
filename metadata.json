@@ -1,0 +1,11 @@
+{
+  "name": "FA97 Chat",
+  "description": "WhatsApp-style real-time messaging app with voice/video calls, status stories, voice notes, gallery uploads, and secret private chats.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
